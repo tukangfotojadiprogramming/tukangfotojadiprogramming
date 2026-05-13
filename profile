@@ -2,9 +2,7 @@
 ### Visual Creator | Photographer | Developer
 
 ---
-
 > “Capturing moments, building systems.”
-
 ---
 
 ## 🚀 About Me
