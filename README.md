@@ -30,10 +30,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tukangfotojadiprogramming&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact
 Email: gaarpotret@gmail.com
