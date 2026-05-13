@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Photographer+%7C+Visual+Creator;Developer+%7C+Problem+Solver;Capturing+Moments;Building+Creative+Experiences" alt="Typing Animation" />
-</p>
-
 # 📸 GAAR POTRET
 ### Visual Creator | Photographer | Developer
 
